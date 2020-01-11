@@ -1,0 +1,23 @@
+{
+  "name": "Node-Docker-Lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinloveless/Node-Docker-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinloveless/Node-Docker-Lab/issues"
+  },
+  "homepage": "https://github.com/austinloveless/Node-Docker-Lab#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
